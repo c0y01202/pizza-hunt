@@ -1,3 +1,4 @@
+
 # pizza-hunt
 
 ## Purpose of Project
@@ -9,3 +10,5 @@ The purpose of Pizza Hunt was to build a database using Mongoose which is a NoSQ
 1. Mongoose
 2. MongoDB
 3. Express
+
+![2022-06-03_20-00-30](https://user-images.githubusercontent.com/97765679/171973271-9b61fd8e-8dff-40df-b91d-c974068b9178.png)
